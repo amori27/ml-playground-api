@@ -1,6 +1,6 @@
 # ML Playground API
 
-[![CI](https://github.com/yourusername/ml-playground-api/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/yourusername/ml-playground-api/actions/workflows/ci-cd.yml)
+[![CI](https://github.com/amori27/ml-playground-api/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/amori27/ml-playground-api/actions/workflows/ci-cd.yml)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
